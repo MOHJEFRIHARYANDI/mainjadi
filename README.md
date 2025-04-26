@@ -1,0 +1,2 @@
+# mainjadi
+input santri
